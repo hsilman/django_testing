@@ -1,0 +1,335 @@
+1643379771890	geckodriver	INFO	Listening on 127.0.0.1:51335
+1643379774928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51336" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilewN4tg3"
+1643379775153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilewN4tg3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51336/devtools/browser/57518391-283a-43aa-b7f3-ed92717b3209
+1643379776688	Marionette	INFO	Listening on port 51341
+1643379776977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643379776987	Marionette	INFO	Stopped listening on port 51341
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643379787748	geckodriver	INFO	Listening on 127.0.0.1:51382
+1643379790793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51383" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilelOajIo"
+1643379790989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilelOajIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51383/devtools/browser/d1f228b0-c15e-46cc-8a6b-9aed4d0d1f9b
+1643379792469	Marionette	INFO	Listening on port 51388
+1643379792840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643379792943	Marionette	INFO	Stopped listening on port 51388
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643596923136	geckodriver	INFO	Listening on 127.0.0.1:55064
+1643596926201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55065" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile1DA6BH"
+1643596926774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile1DA6BH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55065/devtools/browser/03b786aa-72c7-495c-9d40-a7eb80217f66
+1643596928780	Marionette	INFO	Listening on port 55070
+1643596928884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643596929073	Marionette	INFO	Stopped listening on port 55070
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643596929577	geckodriver	INFO	Listening on 127.0.0.1:55119
+1643596932620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55120" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileXjasvw"
+1643596932823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileXjasvw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55120/devtools/browser/59e2eb0c-55ec-49e3-bff9-20b232ba1ea9
+1643596934380	Marionette	INFO	Listening on port 55125
+1643596934659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643596934740	Marionette	INFO	Stopped listening on port 55125
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643682291533	geckodriver	INFO	Listening on 127.0.0.1:60677
+1643682294574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60678" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile9KjAKQ"
+1643682295075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile9KjAKQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60678/devtools/browser/147d5fc7-a90c-4065-ba47-af57001e4fa5
+1643682296943	Marionette	INFO	Listening on port 60683
+1643682297248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643682297509	Marionette	INFO	Stopped listening on port 60683
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643682298009	geckodriver	INFO	Listening on 127.0.0.1:60731
+1643682301036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60732" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilesVmhim"
+1643682301254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilesVmhim\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60732/devtools/browser/2eea1fa1-4c87-4dd0-bfd5-02921af1083f
+1643682302745	Marionette	INFO	Listening on port 60739
+1643682303083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643682303144	Marionette	INFO	Stopped listening on port 60739
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643682402828	geckodriver	INFO	Listening on 127.0.0.1:60784
+1643682405874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60785" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilecgHY8u"
+1643682406071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilecgHY8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60785/devtools/browser/2ccb3337-cacf-45bd-af9e-f19794600b5d
+1643682407566	Marionette	INFO	Listening on port 60790
+1643682407910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643682408061	Marionette	INFO	Stopped listening on port 60790
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643682408550	geckodriver	INFO	Listening on 127.0.0.1:60837
+1643682411589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60838" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileyrSZ8I"
+1643682411788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileyrSZ8I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60838/devtools/browser/0cafd9d4-f47a-4024-8594-b82494699b75
+1643682413341	Marionette	INFO	Listening on port 60843
+1643682413637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643682413731	Marionette	INFO	Stopped listening on port 60843
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+1643682564002	geckodriver	INFO	Listening on 127.0.0.1:60902
+1643682567041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60903" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileHIzyq1"
+1643682567258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileHIzyq1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60903/devtools/browser/0607c6a0-de97-40c8-ac51-9d3e885cb70b
+1643682568837	Marionette	INFO	Listening on port 60908
+1643682569089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643682569235	Marionette	INFO	Stopped listening on port 60908
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643682569715	geckodriver	INFO	Listening on 127.0.0.1:60941
+1643682572748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60942" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileAyJxWJ"
+1643682572956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileAyJxWJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60942/devtools/browser/13f36341-7121-4a3b-89ea-9b272555e8cc
+1643682574394	Marionette	INFO	Listening on port 60947
+1643682574811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643682574893	Marionette	INFO	Stopped listening on port 60947
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683286300	geckodriver	INFO	Listening on 127.0.0.1:61131
+1643683289321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61132" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilevaQoI5"
+1643683289527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilevaQoI5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61132/devtools/browser/9bea0ae9-c1a1-43ac-a14d-bdfd1c116dff
+1643683291061	Marionette	INFO	Listening on port 61137
+1643683291368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683291651	Marionette	INFO	Stopped listening on port 61137
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683292105	geckodriver	INFO	Listening on 127.0.0.1:61182
+1643683295130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61183" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileOeqlOE"
+1643683295326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileOeqlOE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61183/devtools/browser/459fc2c8-4983-4c42-bcc6-2d425cb85e9a
+1643683296891	Marionette	INFO	Listening on port 61188
+1643683297165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683297513	Marionette	INFO	Stopped listening on port 61188
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683298017	geckodriver	INFO	Listening on 127.0.0.1:61243
+1643683301056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61244" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileMDK5UX"
+1643683301256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileMDK5UX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61244/devtools/browser/6e536bba-f132-4d71-888c-d6f259a612f8
+1643683302688	Marionette	INFO	Listening on port 61250
+1643683303105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683303328	Marionette	INFO	Stopped listening on port 61250
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683524209	geckodriver	INFO	Listening on 127.0.0.1:61330
+1643683527250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61331" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile8z9Oou"
+1643683527443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile8z9Oou\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61331/devtools/browser/b0d171fd-6d87-4858-84ca-4a2be3b4e77e
+1643683528889	Marionette	INFO	Listening on port 61337
+1643683529297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683534598	Marionette	INFO	Stopped listening on port 61337
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683535125	geckodriver	INFO	Listening on 127.0.0.1:61397
+1643683538151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61398" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile3YORZI"
+1643683538343	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile3YORZI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61398/devtools/browser/5312c86a-6270-4560-a286-b62839159981
+1643683539887	Marionette	INFO	Listening on port 61404
+1643683540216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683540564	Marionette	INFO	Stopped listening on port 61404
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683541049	geckodriver	INFO	Listening on 127.0.0.1:61465
+1643683544083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61466" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileCBdUgG"
+1643683544277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileCBdUgG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61466/devtools/browser/8bda0cf4-4db6-4d6d-a725-b64ac262db3f
+1643683545841	Marionette	INFO	Listening on port 61471
+1643683546141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683546373	Marionette	INFO	Stopped listening on port 61471
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683563729	geckodriver	INFO	Listening on 127.0.0.1:61531
+1643683566789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61532" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilePn5G5M"
+1643683566990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilePn5G5M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61532/devtools/browser/16f48955-e380-4dfc-98a3-bbaabc102311
+1643683568538	Marionette	INFO	Listening on port 61538
+1643683568844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683579101	Marionette	INFO	Stopped listening on port 61538
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683579605	geckodriver	INFO	Listening on 127.0.0.1:61602
+1643683582640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61603" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileQBGZub"
+1643683582834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileQBGZub\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61603/devtools/browser/1a97cbf0-38ac-4fd6-ad75-59ae0ca373cf
+1643683584348	Marionette	INFO	Listening on port 61609
+1643683584693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683584993	Marionette	INFO	Stopped listening on port 61609
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683585497	geckodriver	INFO	Listening on 127.0.0.1:61672
+1643683588543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61673" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileGno1Ga"
+1643683588739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileGno1Ga\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61673/devtools/browser/0265205c-d903-4334-afaf-1d2fa5307f7b
+1643683590275	Marionette	INFO	Listening on port 61678
+1643683590584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683590818	Marionette	INFO	Stopped listening on port 61678
+[Parent 26576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683624384	geckodriver	INFO	Listening on 127.0.0.1:61740
+1643683627420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61741" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilecI0FQu"
+1643683627621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilecI0FQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61741/devtools/browser/c29f90c2-f9c0-4d67-8944-1157c0ad4d68
+1643683629142	Marionette	INFO	Listening on port 61746
+1643683629476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683639722	Marionette	INFO	Stopped listening on port 61746
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683640257	geckodriver	INFO	Listening on 127.0.0.1:61807
+1643683643289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61808" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileUyneze"
+1643683643512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileUyneze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61808/devtools/browser/b430d6e7-9a77-4180-afac-e8f275b642ef
+1643683645009	Marionette	INFO	Listening on port 61817
+1643683645335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683645682	Marionette	INFO	Stopped listening on port 61817
+[Parent 8592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683646181	geckodriver	INFO	Listening on 127.0.0.1:61878
+1643683649213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61879" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofiletiqmpI"
+1643683649419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofiletiqmpI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61879/devtools/browser/bb1c251a-b505-432b-97f2-962d8651122d
+1643683650901	Marionette	INFO	Listening on port 61884
+1643683651253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683651463	Marionette	INFO	Stopped listening on port 61884
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+1643683810915	geckodriver	INFO	Listening on 127.0.0.1:61955
+1643683813943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61956" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile48Pxdx"
+1643683814134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile48Pxdx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61956/devtools/browser/7112b8d5-71a0-4b6e-afdd-6293703d438b
+1643683815622	Marionette	INFO	Listening on port 61961
+1643683815989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683836287	Marionette	INFO	Stopped listening on port 61961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683836808	geckodriver	INFO	Listening on 127.0.0.1:62025
+1643683839839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62026" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile6hMhKF"
+1643683840028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile6hMhKF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62026/devtools/browser/80915dcd-8311-4696-858b-0f6419196b1f
+1643683841460	Marionette	INFO	Listening on port 62031
+1643683841893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683842187	Marionette	INFO	Stopped listening on port 62031
+console.error: QuickSuggest: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 131))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683842675	geckodriver	INFO	Listening on 127.0.0.1:62085
+1643683845715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62086" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileNAqcGV"
+1643683845904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileNAqcGV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62086/devtools/browser/7964f780-54be-484c-8c49-5c734d96c59d
+1643683847443	Marionette	INFO	Listening on port 62091
+1643683847751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683847977	Marionette	INFO	Stopped listening on port 62091
+[Parent 15120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683864183	geckodriver	INFO	Listening on 127.0.0.1:62146
+1643683867210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62147" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile7bwWQX"
+1643683867404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofile7bwWQX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62147/devtools/browser/4d0fdb5b-fd0a-4f51-a804-77341de18ae3
+1643683868881	Marionette	INFO	Listening on port 62152
+1643683869254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683874506	Marionette	INFO	Stopped listening on port 62152
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683875027	geckodriver	INFO	Listening on 127.0.0.1:62212
+1643683878051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62213" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilewXKD0g"
+1643683878249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofilewXKD0g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62213/devtools/browser/659b05a1-f95d-4471-8871-2f74c88a5905
+1643683879736	Marionette	INFO	Listening on port 62220
+1643683880095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost:8000"
+1643683880389	Marionette	INFO	Stopped listening on port 62220
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643683880878	geckodriver	INFO	Listening on 127.0.0.1:62281
+1643683883920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62282" "-no-remote" "-profile" "C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileD5TEE3"
+1643683884116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harry\\AppData\\Local\\Temp\\rust_mozprofileD5TEE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62282/devtools/browser/b4c3950c-de93-48e2-8646-db6da86f5964
+1643683885641	Marionette	INFO	Listening on port 62288
+1643683885958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643683886173	Marionette	INFO	Stopped listening on port 62288
+console.error: QuickSuggest: (new Error("Shutdown, aborting read-only worker requests.", "resource://services-settings/RemoteSettingsWorker.jsm", 143))
